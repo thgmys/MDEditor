@@ -1,5 +1,4 @@
-# MDEditor
-Markdown Editor application made with Tauri. Rust backend and Vue frontend.
+# Markdown Editor application made with Tauri
 
 ![MDEditor demo](images/MDEditor.png)
 
